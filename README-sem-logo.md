@@ -28,23 +28,39 @@
  
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+     ♻️ <a href="#" alt="site do ecoleta"> Ecoleta </a>
 </h1>
 
-<h4 align="center"> 
-	🚧  Ecoleta ♻️ Concluído 🚀 🚧
+<h3 align="center">
+    🌱 Seu marketplace de coleta de resíduos. Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. 💚
+</h3>
+
+
+<h4 align="center">
+	🚧   Concluído 🚀 🚧
 </h4>
 
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
-
-</p>
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Feateres](#-features)
+   * [Layout](#-layout)
+     * [Mobile](#mobile)
+     * [Web](#web)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando o Backend (servidor)](#rodando-o-backend-servidor)
+     * [Rodando a aplicação web (Frontend)](#rodando-o-frontend)
+   * [Tecnologia](#-tecnologias)
+     * [Web](#web)
+     * [Server](#server)
+     * [Mobile](#mobile)
+   * [Contribuidores](#-contribuidores)
+   * [Como contribuir no projeto](#-como-contribuir-no-projeto)
+   * [Autor](#-autor)
+   * [Licença](#user-content--licença)
+<!--te-->
 
 
 ## 💻 Sobre o projeto
@@ -254,7 +270,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </tr>
 </table>
 
-## 💪 Como contribuir para o projeto
+## 💪 Como contribuir no projeto
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
