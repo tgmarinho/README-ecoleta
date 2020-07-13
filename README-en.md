@@ -1,4 +1,17 @@
 
+
+<h1 align="center">
+    <img alt="Ecoleta" title="#Ecoleta" src="./assets/banner.png" />
+</h1>
+
+<h1 align="center">
+   ♻️ <a href="#"> ECOLETA </a>
+</h1>
+
+<h3 align="center">
+    Your waste collection marketplace. We help the planet to be cleaner!
+</h3>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
 
@@ -23,22 +36,8 @@
   
   <a href="https://blog.rocketseat.com.br/">
     <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
-    </a>
-  
- 
+    </a> 
 </p>
-<h1 align="center">
-    <img alt="Ecoleta" title="#Ecoleta" src="./assets/banner.png" />
-</h1>
-
-
-<h1 align="center">
-   ♻️ <a href="#"> ECOLETA </a>
-</h1>
-
-<h3 align="center">
-    Your waste collection marketplace. We help the planet to be cleaner!
-</h3>
 
 
 <h4 align="center"> 
@@ -47,10 +46,11 @@
 
 <p align="center">
  <a href="#about">About</a> •
+ <a href="#features">Features</a> •
  <a href="#layout">Layout</a> • 
- <a href="#tech-stack">Tech Stack</a> • 
  <a href="#how-it-works">How it works</a> • 
- <a href="#contribuidores">Contributors</a> • 
+ <a href="#tech-stack">Tech Stack</a> • 
+ <a href="#contributors">Contributors</a> • 
  <a href="#author">Author</a> • 
  <a href="#user-content-license">License</a>
 
@@ -178,7 +178,7 @@ $ npm run start
 
 ---
 
-## Stack
+## Tech Stack
 
 The following tools were used in the construction of the project:
 

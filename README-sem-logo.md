@@ -1,4 +1,13 @@
 
+
+<h1 align="center">
+     ♻️ <a href="#" alt="site do ecoleta"> Ecoleta </a>
+</h1>
+
+<h3 align="center">
+    🌱 Seu marketplace de coleta de resíduos. Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. 💚
+</h3>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
 
@@ -27,14 +36,6 @@
   
  
 </p>
-<h1 align="center">
-     ♻️ <a href="#" alt="site do ecoleta"> Ecoleta </a>
-</h1>
-
-<h3 align="center">
-    🌱 Seu marketplace de coleta de resíduos. Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. 💚
-</h3>
-
 
 <h4 align="center">
 	🚧   Concluído 🚀 🚧
