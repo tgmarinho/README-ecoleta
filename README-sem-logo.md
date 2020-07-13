@@ -45,18 +45,17 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Feateres](#-features)
+   * [Funcionalidades](#-funcionalidades)
    * [Layout](#-layout)
      * [Mobile](#mobile)
      * [Web](#web)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o Backend (servidor)](#rodando-o-backend-servidor)
-     * [Rodando a aplicação web (Frontend)](#rodando-o-frontend)
+     * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
+     * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
    * [Tecnologia](#-tecnologias)
      * [Web](#web)
      * [Server](#server)
-     * [Mobile](#mobile)
    * [Contribuidores](#-contribuidores)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
    * [Autor](#-autor)
@@ -74,7 +73,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ---
 
-## ⚙️ Features
+## ⚙️ Funcionalidades
 
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
   - [x] uma imagem do ponto de coleta

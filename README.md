@@ -37,7 +37,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-features">Features</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -57,7 +57,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ---
 
-## ⚙️ Features
+## ⚙️ Funcionalidades
 
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
   - [x] uma imagem do ponto de coleta
